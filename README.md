@@ -2,7 +2,7 @@
 
 Description. 
 The package package_name is used to:
-	- 
+	- como minha primeira experiencia!
 	-
 
 ## Installation
