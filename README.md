@@ -2,7 +2,7 @@
 
 Description. 
 The package package_name is used to:
-	- como minha primeira experiencia!
+	- Para minha primeira experiencia!
 	-
 
 ## Installation
@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Edson Germano
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
